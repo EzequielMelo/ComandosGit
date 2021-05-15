@@ -1,5 +1,5 @@
-# Cclase03funciones
-Programación en C ,Clase 03  funciones
+# Subir archivos con git
+Programación en C 
 
   -1 crear una carpeta
   
